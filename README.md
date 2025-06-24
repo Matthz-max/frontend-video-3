@@ -10,10 +10,6 @@ Este é o Frontend do projeto **GYM**, desenvolvido com **React** e **NX**. Ele 
 - NX
 - TypeScript
 - VS CODE
-- Postman
-- Workbeach
-- Lombok  
-- Maven  
 
 ---
 
@@ -31,7 +27,6 @@ Este é o Frontend do projeto **GYM**, desenvolvido com **React** e **NX**. Ele 
 
 ```plaintext
 FRONTEND-VIDEO-3
-
 ├── .nx
 ├── .vscode
 ├── node_modules/
@@ -61,43 +56,29 @@ FRONTEND-VIDEO-3
 │   └── main.tsx
 ├── package-lock.json
 ├── package.json
-```
-# 💻 Como usar o site 
 
-<div align="center"> 
-  <table> 
-    <tr> 
-      <td align="center"><strong>Método GET</strong></td> 
-      <td style="width: 20px;"></td> 
-      <td align="center"><strong>Método POST</strong></td> 
-    </tr> 
-    <tr> 
+```
+# 💻 O site  
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Crie um exercicio</strong></td>
+      <td style="width: 20px;"></td> <!-- Espaço entre as colunas -->
+      <td align="center"><strong>Veja seus Exercicios</strong></td>
+    </tr>
+    <tr>
       <td>
-        <img src="https://github.com/user-attachments/assets/c705848d-ee18-46cd-b4bb-24f5f213353c" alt="GET" width="400"/>
-      </td> 
-      <td></td> 
+        <img src="https://github.com/user-attachments/assets/24a93ff5-5151-4282-bc8b-015e39b94287" alt="Crie um exercicio" width="400" />
+      </td>
+      <td></td>
       <td>
-        <img src="https://github.com/user-attachments/assets/e22a7f36-b9a8-4242-8b3f-e2e73937d18d" alt="POST" width="400"/>
-      </td> 
-    </tr> 
-    <tr><td colspan="3" style="height: 20px;"></td></tr> <!-- Espaço entre as linhas -->
-    <tr> 
-      <td align="center"><strong>Método PUT</strong></td> 
-      <td style="width: 20px;"></td> 
-      <td align="center"><strong>Método DELETE</strong></td> 
-    </tr> 
-    <tr> 
-      <td>
-        <img src="https://github.com/user-attachments/assets/a3f5b439-fa8e-4f1e-a540-3337193def96" alt="PUT" width="400"/>
-      </td> 
-      <td></td> 
-      <td>
-        <img src="https://github.com/user-attachments/assets/dc3165f7-99b6-4d6c-9ceb-e7f37d96414e" alt="DELETE" width="400"/>
-      </td> 
-    </tr> 
-    
-  </table> 
+        <img src="https://github.com/user-attachments/assets/37bbb910-5814-449d-9ab1-10a802109a22" alt="Veja o seu exercio edite ou delete" width="400" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 # 📚 Referência
 The Dev World - by Sergio Lema | DEV
