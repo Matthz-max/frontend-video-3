@@ -1,0 +1,19 @@
+.vertical-container {
+    background: linear-gradient(135deg, #a3c9f1, #f7fafc);
+    padding: 30px 20px;
+    border-radius: 16px;
+    width: 96%;
+    box-shadow: 0 8px 20px rgba(163, 201, 241, 0.4);
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .vertical-container h2 {
+    color: #2c3e50; /* azul escuro para contraste */
+    font-size: 35px;
+    margin: 0 0 20px 0;
+    user-select: none;
+  }
+  
