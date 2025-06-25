@@ -58,8 +58,10 @@ FRONTEND-VIDEO-3
 ├── package.json
 
 ```
-# 💻 O site  
+# Rode o codigo
+npx nx serve ou npm start — Inicia o servidor
 
+# 💻 O site  
 <div align="center">
   <table>
     <tr>
