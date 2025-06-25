@@ -59,9 +59,12 @@ FRONTEND-VIDEO-3
 
 ```
 # Rode o codigo
-npx nx serve ou npm start — Inicia o servidor
+### npx nx serve ou npm start — Inicia o servidor
 
 # 💻 O site  
+
+### Tutorial 
+ Crie um exercicio e coloque o peso. Você pode editar ou deletar caso seja de sua vontade.
 <div align="center">
   <table>
     <tr>
@@ -80,8 +83,7 @@ npx nx serve ou npm start — Inicia o servidor
     </tr>
   </table>
 </div>
-
-
+ 
 # 📚 Referência
 The Dev World - by Sergio Lema | DEV
 
